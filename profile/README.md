@@ -1,6 +1,6 @@
 ## psi
 
-Open-source Agentic System Frameworks and Suites.
+Open-source Agentic System Frameworks and Building Suites.
 
 <!--
 
