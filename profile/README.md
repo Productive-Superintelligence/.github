@@ -1,6 +1,6 @@
 ## psi
 
-Open-source Agentic System Frameworks and Building Suites.
+Open-source Minimalism Full-stack Agentic System Frameworks and Building Suites.
 
 <!--
 
