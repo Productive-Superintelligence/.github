@@ -1,6 +1,5 @@
 ## Psi
 
-Real Open-Source Minimalism and Effective Full-Stack Agentic Frameworks and Building Suites.
 
 
 
