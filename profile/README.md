@@ -1,4 +1,4 @@
-## psi
+## Psi
 
 Open-source Minimalism Full-stack Agentic System Frameworks and Building Suites.
 
