@@ -1,6 +1,6 @@
 ## Psi
 
-Open-source Minimalism and Effective Full-stack Agentic System Frameworks and Building Suites.
+Real Open-Source Minimalism and Effective Full-Stack Agentic Frameworks and Building Suites.
 
 
 
